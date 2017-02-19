@@ -18,9 +18,7 @@
     "tymon/jwt-auth"           : "1.0.*@dev",
     "laravelangular/generators": "2.7.*",
     "irazasyed/jwt-auth-guard" : "^1.0",
-    "barryvdh/laravel-cors"    : "^0.8.2",
-    "consigliere/components"   : "0.1.*",
-    "jeroen-g/laravel-packager": "^1.5"
+    "barryvdh/laravel-cors"    : "^0.8.2"
   },
   "require-dev" : {
     "fzaninotto/faker"    : "~1.4",
