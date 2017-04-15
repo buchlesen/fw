@@ -1,0 +1,18 @@
+<!DOCTYPE SynkronSync>
+<sync allowed_difference="2" type="sync" last_sync="">
+ <name data="Onsigbaar"/>
+ <folders paths="C:/xampp/htdocs/projects/onsigbaar/fw;C:/xampp/htdocs/projects/onsigbaar/framework">
+  <folder path="C:/xampp/htdocs/projects/onsigbaar/fw" label="fw">
+   <advanced slave="0" no_empty_folders="0" dont_update="0" backup_folder="0" update_only="0"/>
+  </folder>
+  <folder path="C:/xampp/htdocs/projects/onsigbaar/framework" label="framework">
+   <advanced slave="1" no_empty_folders="0" dont_update="0" backup_folder="0" update_only="0"/>
+  </folder>
+ </folders>
+ <blacklist files="C:/xampp/htdocs/projects/onsigbaar/fw/.env;C:/xampp/htdocs/projects/onsigbaar/fw/composer.json;C:/xampp/htdocs/projects/onsigbaar/framework/.env;C:/xampp/htdocs/projects/onsigbaar/framework/composer.json;C:/xampp/htdocs/projects/onsigbaar/fw/composer.lock;C:/xampp/htdocs/projects/onsigbaar/framework/composer.lock" extensions="" folders="C:/xampp/htdocs/projects/onsigbaar/fw/.git;C:/xampp/htdocs/projects/onsigbaar/fw/bower_components;C:/xampp/htdocs/projects/onsigbaar/fw/node_modules;C:/xampp/htdocs/projects/onsigbaar/fw/packages;C:/xampp/htdocs/projects/onsigbaar/fw/app/Components;C:/xampp/htdocs/projects/onsigbaar/fw/vendor;C:/xampp/htdocs/projects/onsigbaar/framework/.git;C:/xampp/htdocs/projects/onsigbaar/framework/bower_components;C:/xampp/htdocs/projects/onsigbaar/framework/node_modules;C:/xampp/htdocs/projects/onsigbaar/framework/packages;C:/xampp/htdocs/projects/onsigbaar/framework/app/Components;C:/xampp/htdocs/projects/onsigbaar/framework/vendor"/>
+ <advanced_options>
+  <global propagate_deletions="0" no_empty_folders="0" symlinks="0" sync_nosubdirs="0" text_database="1" sync_hidden="0" ignore_blacklist="0" backup_folders="0" alert_collisions="0" update_only="0"/>
+  <analysis analyse_special_only="0" fast_analyse="0" sort_analysis_by_action="0"/>
+  <filters checked=""/>
+ </advanced_options>
+</sync>
